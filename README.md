@@ -7,7 +7,7 @@ Contains paradigms for Assamese
 Source: English Wiktionary
 
 ## Annotators
-Khuyagbaatar Batsuren
+Khuyagbaatar Batsuren <br />
 Aryaman Arora
 
 ## Paradigm Samples
