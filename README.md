@@ -11,7 +11,7 @@ Khuyagbaatar Batsuren
 Aryaman Arora
 
 ## Paradigm Samples
-বতৰ	বতৰ	N;ABS;INDF;SG
+বতৰ	বতৰ	N;ABS;INDF;SG \\
 বতৰ	বতৰটো	N;ABS;DEF;SG;NUM
 বতৰ	বতৰকেইটা	N;ABS;DEF;PL;NUM
 বতৰ	বতৰবোৰ	N;ABS;DEF;PL;NON;INFM
