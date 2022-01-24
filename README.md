@@ -11,18 +11,18 @@ Khuyagbaatar Batsuren
 Aryaman Arora
 
 ## Paradigm Samples
-বতৰ	বতৰ	N;ABS;INDF;SG \\
-বতৰ	বতৰটো	N;ABS;DEF;SG;NUM
-বতৰ	বতৰকেইটা	N;ABS;DEF;PL;NUM
-বতৰ	বতৰবোৰ	N;ABS;DEF;PL;NON;INFM
-বতৰ	বতৰবিলাক	N;ABS;DEF;PL;NON
+বতৰ	বতৰ	N;ABS;INDF;SG <br />
+বতৰ	বতৰটো	N;ABS;DEF;SG;NUM <br />
+বতৰ	বতৰকেইটা	N;ABS;DEF;PL;NUM <br />
+বতৰ	বতৰবোৰ	N;ABS;DEF;PL;NON;INFM <br />
+বতৰ	বতৰবিলাক	N;ABS;DEF;PL;NON <br />
 
 ## Language Specifics
-LGSPEC3 Conjugative
-LGSPEC4 Goal
-LGSPEC5 Agentive
-LGSPEC6 Contingent
-LGSPEC7 Reason
+LGSPEC3 Conjugative <br />
+LGSPEC4 Goal <br />
+LGSPEC5 Agentive <br />
+LGSPEC6 Contingent <br />
+LGSPEC7 Reason <br />
 
 ## Shared Tasks
 
