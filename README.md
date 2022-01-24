@@ -4,13 +4,25 @@ Contains paradigms for Assamese
 
 ## Data
 
-Source:TBA
+Source: English Wiktionary
 
 ## Annotators
-Ritesh Kumar
+Khuyagbaatar Batsuren
+Aryaman Arora
 
 ## Paradigm Samples
-TBA
+বতৰ	বতৰ	N;ABS;INDF;SG
+বতৰ	বতৰটো	N;ABS;DEF;SG;NUM
+বতৰ	বতৰকেইটা	N;ABS;DEF;PL;NUM
+বতৰ	বতৰবোৰ	N;ABS;DEF;PL;NON;INFM
+বতৰ	বতৰবিলাক	N;ABS;DEF;PL;NON
+
+## Language Specifics
+LGSPEC3 Conjugative
+LGSPEC4 Goal
+LGSPEC5 Agentive
+LGSPEC6 Contingent
+LGSPEC7 Reason
 
 ## Shared Tasks
 
