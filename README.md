@@ -18,11 +18,13 @@ Aryaman Arora
 বতৰ	বতৰবিলাক	N;ABS;DEF;PL;NON <br />
 
 ## Language Specifics
-LGSPEC3 Conjugative <br />
-LGSPEC4 Goal <br />
-LGSPEC5 Agentive <br />
-LGSPEC6 Contingent <br />
-LGSPEC7 Reason <br />
+LGSPEC03 Conjugative <br />
+LGSPEC04 Goal <br />
+LGSPEC05 Agentive <br />
+LGSPEC06 Contingent <br />
+LGSPEC07 Reason <br />
+LGSPEC08 numeral for nouns <br />
+LGSPEC09 non-numeral for nouns <br />
 
 ## Shared Tasks
 
