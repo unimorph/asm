@@ -13,11 +13,11 @@ Khuyagbaatar Batsuren <br />
 Aryaman Arora
 
 ## Paradigm Samples
-বতৰ	বতৰ	N;ABS;INDF;SG <br />
-বতৰ	বতৰটো	N;ABS;DEF;SG;NUM <br />
-বতৰ	বতৰকেইটা	N;ABS;DEF;PL;NUM <br />
-বতৰ	বতৰবোৰ	N;ABS;DEF;PL;NON;INFM <br />
-বতৰ	বতৰবিলাক	N;ABS;DEF;PL;NON <br />
+বতৰ	বতৰ	N;ABS;INDF;SG <br/>
+বতৰ	বতৰটো	N;ABS;DEF;SG;LGSPEC08 <br/>
+বতৰ	বতৰকেইটা	N;ABS;DEF;PL;LGSPEC08 <br/>
+বতৰ	বতৰবোৰ	N;ABS;DEF;PL;INFM;LGSPEC09 <br/>
+বতৰ	বতৰবিলাক	N;ABS;DEF;PL;LGSPEC09 <br/>
 
 ## Language Specifics
 LGSPEC03 Conjugative <br />
